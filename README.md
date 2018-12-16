@@ -3,7 +3,7 @@
 <br>
 *Abstract:* Đây là mẫu thử nghiệm giọng nói được hiện thực dựa trên paper (https://arxiv.org/abs/1712.05884) và bộ phân tích đặc trưng ngôn ngữ tiếng Việt do chúng tôi xây dựng.
 
-## VietTaco2 có đọc với ngữ điệu tự nhiên.
+## VietTaco2 có thể  đọc với ngữ điệu tự nhiên.
 1. *”Chúc mừng đội tuyển Việt Nam đã vô địch giải bóng đá AFF CUP
 2018 sau 10 năm chời đợi.”*
 <audio controls>
