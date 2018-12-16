@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+# Mẫu thử âm thanh giọng nói của mô hình VietTaco2 ##
+*Author:* Nguyen Duc Dung, Rin Le.
+*Abstract:* Đây là mẫu thử nghiệm giọng nói được hiện thực dựa trên paper (https://arxiv.org/abs/1712.05884) và bộ phân tích đặc trưng ngôn ngữ tiếng Việt do chúng tôi xây dựng.
 
-You can use the [editor on GitHub](https://github.com/rinleit/canu-sample/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## VietTaco2 có đọc với ngữ điệu tự nhiên.
+1. *”Chúc mừng đội tuyển Việt Nam đã vô địch giải bóng đá AFF CUP
+2018 sau 10 năm chời đợi.”*
+<audio controls>
+  <source src="audio/tunhien/1.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+2. *”Tình yêu là một loạt các cảm xúc, trạng thái tâm lý, và thái độ khác nhau dao động từ tình cảm cá nhân đến niềm vui sướng. Tình yêu thường là một cảm xúc thu hút mạnh mẽ và nhu cầu muốn được ràng buộc gắn bó.”*
+<audio controls>
+  <source src="audio/tunhien/2.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## VietTaco2 rất nhạy cảm với các dấu câu.
+1. *"Còn sống và bước đi trên mặt đất này là một, phép lạ."*
+<br>
+<audio controls>
+  <source src="audio/daucau/co.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+<br>
+2. *"Còn sống và bước đi trên mặt đất này là một phép lạ."*
+<br>
+<audio controls>
+  <source src="audio/daucau/khong.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## VietTaco2 có khả năng đọc những câu uốn lưỡi.
+1. *"Lúa nếp là lúa nếp làng, lúa lên lớp lớp lòng nàng lâng lâng."*
+<br>
+<audio controls>
+  <source src="audio/liuluoi/5.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+<br>
+2. *"Nếu nói lầm lẫn lần này thì lại nói lại nói lầm lẫn lần nữa thì lại nói lại. Nói cho đến lúc luôn luôn lưu loát hết lầm lẫn mới thôi."*
+<br>
+<audio controls>
+  <source src="audio/liuluoi/10.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+## Máy đọc hay Người đọc?
+*"Mặc dù trình độ học vấn không cao nhưng ông đã trở thành một trong những nhà tài chính uy tín nhất ở Mỹ."*
+<br>
+<audio controls>
+  <source src="audio/human/1.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+<br>
+<audio controls>
+  <source src="audio/human/2.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rinleit/canu-sample/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
