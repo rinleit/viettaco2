@@ -1,6 +1,8 @@
 # Mẫu thử âm thanh giọng nói của mô hình VietTaco2 ##
 *Author:* Nguyen Duc Dung, Rin Le.
 <br>
+*Speaker:* Cam Nhung Tran.
+<br>
 *Abstract:* Đây là mẫu thử nghiệm giọng nói được hiện thực dựa trên paper (https://arxiv.org/abs/1712.05884) và bộ phân tích đặc trưng ngôn ngữ tiếng Việt do chúng tôi xây dựng.
 
 ## VietTaco2 có thể  đọc với ngữ điệu tự nhiên.
