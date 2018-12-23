@@ -1,5 +1,5 @@
 # Mẫu thử âm thanh giọng nói của mô hình VietTaco2 ##
-*Author:* Nguyen Duc Dung, Rin Le.
+*Authors:* Nguyen Duc Dung, Rin Le.
 <br>
 *Speaker:* Cam Nhung Tran.
 <br>
@@ -60,6 +60,3 @@ Your browser does not support the audio element.
   <source src="audio/human/2.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
-
-
-
